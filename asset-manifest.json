@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/react-focus-on-demo/static/js/main.08589548.chunk.js",
+    "main.js.map": "/react-focus-on-demo/static/js/main.08589548.chunk.js.map",
+    "runtime-main.js": "/react-focus-on-demo/static/js/runtime-main.723bfdcb.js",
+    "runtime-main.js.map": "/react-focus-on-demo/static/js/runtime-main.723bfdcb.js.map",
+    "static/js/2.b84a8e14.chunk.js": "/react-focus-on-demo/static/js/2.b84a8e14.chunk.js",
+    "static/js/2.b84a8e14.chunk.js.map": "/react-focus-on-demo/static/js/2.b84a8e14.chunk.js.map",
+    "index.html": "/react-focus-on-demo/index.html",
+    "precache-manifest.c33355f40ddcd4142d8a2668955dd9b2.js": "/react-focus-on-demo/precache-manifest.c33355f40ddcd4142d8a2668955dd9b2.js",
+    "service-worker.js": "/react-focus-on-demo/service-worker.js",
+    "static/js/2.b84a8e14.chunk.js.LICENSE.txt": "/react-focus-on-demo/static/js/2.b84a8e14.chunk.js.LICENSE.txt",
+    "static/media/double-bubble-outline.png": "/react-focus-on-demo/static/media/double-bubble-outline.cdeb83f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.723bfdcb.js",
+    "static/js/2.b84a8e14.chunk.js",
+    "static/js/main.08589548.chunk.js"
+  ]
+}
