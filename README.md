@@ -2,8 +2,6 @@
 
 This repo supplements the following Medium article: Easy Accessibility with React-Focus-On
 
----
+#### Demo
 
-**React-Focus-On**
-
-https://github.com/theKashey/react-focus-on
+https://yuschick.github.io/react-focus-on-demo/
