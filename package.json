@@ -2,6 +2,19 @@
   "name": "accessible-modal-demo",
   "version": "0.1.0",
   "private": true,
+  "author": "Daniel Yuschick",
+  "homepage": "https://yuschick.github.io/react-focus-on-demo/",
+  "keywords": [
+    "react",
+    "styled-components",
+    "react-focus-on",
+    "accessibility",
+    "web accessibility",
+    "a11y",
+    "react modal",
+    "accessible modal"
+  ],
+  "description": "A demo using react-focus-on to create an accessible modal component",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
