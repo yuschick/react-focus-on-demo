@@ -12,7 +12,8 @@
     "web accessibility",
     "a11y",
     "react modal",
-    "accessible modal"
+    "accessible modal",
+    "web standards"
   ],
   "description": "A demo using react-focus-on to create an accessible modal component",
   "dependencies": {
@@ -40,6 +41,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
